@@ -13,7 +13,7 @@ A feature-rich scientific calculator web application built with Python and Strea
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/your-username/scientific-calculator.git
+git clone https://github.com/KripaluSonar06/scientific-calculator.git
 
 2. Install dependencies
 
